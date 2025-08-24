@@ -13,6 +13,7 @@ public class SpringSecurity1Application {
 		int j = 20;
 		String name = "John Snow";
 		boolean status = false;
+		scan.close();
 	}
 
 }
