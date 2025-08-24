@@ -12,6 +12,7 @@ public class SpringSecurity1Application {
 		double jugaad = 45.6;
 		int j = 20;
 		String name = "John Snow";
+		boolean status = false;
 	}
 
 }
