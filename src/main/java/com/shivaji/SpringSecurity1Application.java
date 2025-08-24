@@ -8,7 +8,6 @@ public class SpringSecurity1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurity1Application.class, args);
-		int i=10;
 	}
 
 }
